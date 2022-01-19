@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaparnika&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaparnika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaparnika" alt="sharmaparnika" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science, Big Data, Machine Learning**
 
 - 👯 I’m looking to collaborate on **more Python, C, Machine Learning and Data Analysis projects.**
